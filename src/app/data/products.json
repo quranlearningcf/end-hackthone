@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "off": "-20%",
+    "image": "/products/top-selling/top-selling1.png",
+    "title": "VERTICAL STRIPED SHIRT",
+    "newPrice": "$212",
+    "oldPrice": "$232",
+    "rating": 5.0,
+    "category": "top-selling",
+    "description": "Elevate your wardrobe with this classic vertical striped shirt. Crafted from premium fabric, it combines timeless design with modern comfort. Ideal for office wear, formal occasions, or casual outings, this shirt offers unmatched versatility. Pair it with chinos or jeans for a sophisticated look."
+  },
+  {
+    "id": 2,
+    "image": "/products/top-selling/top-selling2.png",
+    "title": "COURAGE GRAPHIC T-SHIRT",
+    "newPrice": "$145",
+    "rating": 3.0,
+    "category": "top-selling",
+    "description": "Show off your bold personality with this Courage Graphic T-Shirt. Made from soft and breathable fabric, it ensures all-day comfort. The unique graphic print adds a modern edge to your casual outfits, making it perfect for weekends or relaxed hangouts."
+  },
+  {
+    "id": 3,
+    "image": "/products/top-selling/top-selling3.png",
+    "title": "LOOSE FIT BERMUDA SHORTS",
+    "newPrice": "$180",
+    "rating": 4.5,
+    "category": "top-selling",
+    "description": "Stay cool and comfortable in these Loose Fit Bermuda Shorts. Designed with a relaxed silhouette, they are perfect for warm-weather activities. The durable fabric and timeless design make them a great addition to your summer wardrobe."
+  },
+  {
+    "id": 4,
+    "image": "/products/top-selling/top-selling4.png",
+    "title": "FADED SKINNY JEANS",
+    "newPrice": "$130",
+    "rating": 4.5,
+    "category": "top-selling",
+    "description": "These Faded Skinny Jeans are a must-have for your denim collection. Featuring a trendy washed effect, they blend comfort with style. The stretchable fabric ensures a snug fit, making them perfect for day-to-night wear."
+  },
+  {
+    "id": 5,
+    "image": "/products/new-arrivals/new-arrival1.png",
+    "title": "T-SHIRT WITH TAPE DETAILS",
+    "newPrice": "$120",
+    "rating": 4.5,
+    "category": "new-arrival",
+    "description": "Add a modern twist to your casual outfits with this T-Shirt featuring stylish tape details. The premium fabric provides ultimate comfort, while the trendy design ensures you stand out in any setting. Perfect for casual outings or lounging at home."
+  },
+  {
+    "id": 6,
+    "off": "-20%",
+    "image": "/products/new-arrivals/new-arrival2.png",
+    "title": "SKINNY FIT JEANS",
+    "newPrice": "$240",
+    "oldPrice": "$260",
+    "rating": 3.5,
+    "category": "new-arrival",
+    "description": "Upgrade your wardrobe with these Skinny Fit Jeans. Designed for a sleek and stylish look, they feature a flattering fit and high-quality fabric. Ideal for pairing with shirts or t-shirts, these jeans are versatile enough for any occasion."
+  },
+  {
+    "id": 7,
+    "image": "/products/new-arrivals/new-arrival3.png",
+    "title": "CHECKERED SHIRT",
+    "newPrice": "$180",
+    "rating": 4.5,
+    "category": "new-arrival",
+    "description": "This Checkered Shirt is a wardrobe essential for those who value style and comfort. The classic pattern is complemented by a soft and breathable fabric, making it suitable for both casual and semi-formal settings. Pair it with jeans for a polished look."
+  },
+  {
+    "id": 8,
+    "off": "-30%",
+    "image": "/products/new-arrivals/new-arrival4.png",
+    "title": "SLEEVE STRIPED T-SHIRT",
+    "newPrice": "$130",
+    "oldPrice": "$160",
+    "rating": 4.5,
+    "category": "new-arrival",
+    "description": "Add some flair to your casual wear with this Sleeve Striped T-Shirt. Its eye-catching stripe detail on the sleeves and comfortable fit make it perfect for everyday use. Wear it with your favorite jeans or shorts for a laid-back look."
+  },
+  {
+    "id": 9,
+    "title": "Gradient Graphic T-shirt",
+    "newPrice": "$145",
+    "oldPrice": "$242",
+    "rating": 4.5,
+    "image": "/products/casual/casual1.png",
+    "category": "casual",
+    "description": "This Gradient Graphic T-shirt offers a unique design with vibrant gradient hues. Made from premium fabric, it ensures durability and comfort, making it ideal for casual outings or weekend getaways."
+  },
+  {
+    "id": 10,
+    "title": "Polo with Tipping Details",
+    "newPrice": "$180",
+    "oldPrice": "$242",
+    "rating": 4.5,
+    "image": "/products/casual/casual2.png",
+    "category": "casual",
+    "description": "Exude sophistication with this Polo featuring subtle tipping details. The breathable fabric and classic fit make it a perfect choice for semi-formal events or casual outings."
+  },
+  {
+    "id": 11,
+    "title": "T-shirt with Tape Details",
+    "newPrice": "$180",
+    "oldPrice": "$242",
+    "rating": 4.5,
+    "image": "/products/casual/casual3.png",
+    "off": "-30%",
+    "category": "casual",
+    "description": "Add a modern edge to your wardrobe with this T-shirt featuring stylish tape details. Designed with premium quality material, this casual yet trendy shirt provides unmatched comfort. Ideal for casual outings or laid-back evenings, it pairs effortlessly with jeans or shorts."
+  },
+  {
+    "id": 12,
+    "title": "Skinny Fit Jeans",
+    "newPrice": "$180",
+    "oldPrice": "$242",
+    "rating": 4.5,
+    "image": "/products/new-arrivals/new-arrival2.png",
+    "off": "-20%",
+    "category": "casual",
+    "description": "Enhance your everyday look with these Skinny Fit Jeans, crafted for a perfect blend of comfort and style. The premium fabric ensures durability, while the tailored fit highlights your silhouette. A versatile piece that complements both casual and semi-formal outfits."
+  },
+  {
+    "id": 13,
+    "title": "Checkered Shirt",
+    "newPrice": "$180",
+    "oldPrice": "$242",
+    "rating": 4.5,
+    "image": "/products/new-arrivals/new-arrival3.png",
+    "category": "casual",
+    "description": "Timeless and stylish, this Checkered Shirt is a must-have for your casual collection. Made with soft, breathable fabric, it provides all-day comfort without compromising on elegance. Ideal for both weekend getaways and casual gatherings, it pairs well with jeans or chinos."
+  },
+  {
+    "id": 14,
+    "title": "Sleeve Striped T-shirt",
+    "newPrice": "$180",
+    "oldPrice": "$242",
+    "rating": 4.5,
+    "image": "/products/new-arrivals/new-arrival4.png",
+    "off": "-30%",
+    "category": "casual",
+    "description": "This Sleeve Striped T-shirt combines comfort and style for an effortless casual look. Featuring a minimalist stripe detail on the sleeves, it's designed to make you stand out. Pair it with your favorite shorts or jeans for an effortlessly cool vibe."
+  },
+  {
+    "id": 15,
+    "title": "Vertical Striped Shirt",
+    "newPrice": "$180",
+    "oldPrice": "$242",
+    "rating": 4.5,
+    "image": "/products/top-selling/top-selling1.png",
+    "off": "-20%",
+    "category": "casual",
+    "description": "Make a statement with this Vertical Striped Shirt that exudes elegance and sophistication. Its timeless design, combined with premium materials, ensures both comfort and style. Perfect for formal occasions or smart-casual ensembles, this shirt is a versatile addition to any wardrobe."
+  },
+  {
+    "id": 16,
+    "title": "Courage Graphic T-shirt",
+    "newPrice": "$180",
+    "oldPrice": "$242",
+    "rating": 4.5,
+    "image": "/products/top-selling/top-selling2.png",
+    "category": "casual",
+    "description": "Showcase your bold side with this Courage Graphic T-shirt. Made with high-quality, breathable fabric, it delivers unmatched comfort. The unique graphic design adds a trendy touch to your casual outfits, making it a great choice for relaxed weekends or casual gatherings."
+  },
+  {
+    "id": 17,
+    "title": "Loose Fit Bermuda Shorts",
+    "newPrice": "$180",
+    "oldPrice": "$242",
+    "rating": 4.5,
+    "image": "/products/top-selling/top-selling3.png",
+    "category": "casual",
+    "description": "Stay cool and relaxed with these Loose Fit Bermuda Shorts, designed for ultimate comfort during warmer days. The high-quality fabric and versatile design make them a summer essential, perfect for casual outings, beach trips, or lounging at home."
+  }
+]
